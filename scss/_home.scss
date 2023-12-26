@@ -137,6 +137,7 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    border-radius: 1rem;
     h2{
       text-align: center;
       font-size: 5.6rem;
@@ -154,6 +155,25 @@
     }
     a{
       padding: 19px 65px 18px 66px;
+    }
+  }
+  @include respo('tablet'){
+    .box{
+      padding-left: 2rem;
+      padding-right: 2rem;
+    }
+  }
+  @include respo('mobile'){
+    .box{
+      height: auto;
+      background-size: cover;
+      padding: 4rem 1.5rem;
+      h2{
+        font-size: 2.9rem;
+      }
+      p{
+        font-size: 1.8rem;
+      }
     }
   }
 }
