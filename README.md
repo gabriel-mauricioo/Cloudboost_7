@@ -4,7 +4,7 @@ Bem-vindo ao Cloudboost! Este é um projeto que expressa minha paixão por criar
 
 ## 🌐 Acesso ao Site
 
-Confira o Cloudboost em ação [Click aqui do lado -->](https://cloudboost.fun/).
+Confira o Cloudboost em ação [aqui](https://cloudboost.fun/).
 
 ## 🚀 Descrição
 
